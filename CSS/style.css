@@ -700,7 +700,7 @@ a {
 
 .nav__brand {
   transform: translateY(5px);
-  width: 150px;
+  width: 75px;
 }
 
 @media screen and (min-width: 768px) {
@@ -849,10 +849,10 @@ a {
 .footer__brand {
   margin-top: 5rem;
   text-align: center;
-}
+  }
 
 .footer__brand img {
-  max-width: 230px;
+max-width: 75px;
 }
 
 .footer__copyright {
@@ -877,7 +877,7 @@ a {
     opacity: 1;
     max-height: 100%;
   }
-
+    
   .footer__brand {
     order: -1;
     margin-top: 1rem;
